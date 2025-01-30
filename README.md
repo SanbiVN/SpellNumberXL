@@ -1,5 +1,5 @@
-# SpellNumberXL - Các hàm đọc số thành chữ, chuyển chữ thành số 
- Đọc số tiền, đọc số thập phân, đọc số trong chuỗi cho Excel
+# SpellNumberXL - Hàm đọc số thành chữ, chuyển chữ thành số cho Excel
+ Đọc số tiền, đọc số thập phân, đọc số trong chuỗi
 
 [Click vào đây để tải xuống](https://github.com/SanbiVN/SpellNumberXL/releases/download/SpellNumber/SpellNumberXL.xlsm)
 
