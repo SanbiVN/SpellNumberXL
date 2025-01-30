@@ -1,4 +1,4 @@
-# SpellNumberXL - Hàm đọc số thành chữ, chuyển chữ thành số cho Excel
+ # SpellNumberXL - Hàm đọc số thành chữ, chuyển chữ thành số cho Excel
  Đọc số tiền, đọc số thập phân, đọc số trong chuỗi
 
 [Click vào đây để tải xuống](https://github.com/SanbiVN/SpellNumberXL/releases/download/SpellNumber/SpellNumberXL.xlsm)
@@ -21,7 +21,7 @@ Hàm: 	```=SpellNumVN(Text,[Đối_số_cài_đặt])```
 | **snDotPercent**()               | Đọc là chấm thay cho phẩy                                                                                                                                          |
 | **snSpellDivision**()            | Đọc cả phép chia ở phần thập phân                                                                                                                                  |
 | **snSentenceSpace**(" ")         | Dấu cách khi đọc số                                                                                                                                                |
-| **snUnitCode(**"USD",1,True**)** | Thêm đơn vị tiền tệ "Đô-la" và quốc gia đại diện "Mỹ"                                                                                                              |
+| **snUnitCode(**"USD",1,True)     | Thêm đơn vị tiền tệ "Đô-la" và quốc gia đại diện "Mỹ"                                                                                                              |
 | **snText**([Left],[Right])       | Thêm chuỗi bên trái và bên phải nếu cần thiết                                                                                                                      |
 | **snSoutherners()**              | Đọc theo miền nam (ngàn+lẻ)                                                                                                                                        |
 
