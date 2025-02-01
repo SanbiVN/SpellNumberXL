@@ -31,11 +31,11 @@ Các kiểu đọc đơn vị tiền tệ (Hàm đối số):
 
 | Hàm                              | Diễn tả |
 | -------------------------------- | ---------------------------------------------- |
-| **snUnitCode(**"USD"**)**        | 1 - thêm đơn vị tiền tệ "Đô-la."               |
-| **snUnitCode(**"USD",2**)**      | 2 - thêm đơn vị tiền tệ "(Đô-la.)"             |
-| **snUnitCode(**"USD",3**)**      | 3 - thêm đơn vị tiền tệ "[Đô-la.]"             |
-| **snUnitCode(**"USD",1,True**)** | "Đô-la Mỹ."  đơn vị tiền tệ và tên địa lý      |
-| **snUnitCode(**"VND",1,True**)** | "Việt Nam đồng."  đơn vị tiền tệ và tên địa lý |
+| **snUnitCode(**"USD")        | 1 - thêm đơn vị tiền tệ "Đô-la."               |
+| **snUnitCode(**"USD",2)      | 2 - thêm đơn vị tiền tệ "(Đô-la.)"             |
+| **snUnitCode(**"USD",3)      | 3 - thêm đơn vị tiền tệ "[Đô-la.]"             |
+| **snUnitCode(**"USD",1,True) | "Đô-la Mỹ."  đơn vị tiền tệ và tên địa lý      |
+| **snUnitCode(**"VND",1,True) | "Việt Nam đồng."  đơn vị tiền tệ và tên địa lý |
 
 Có 6 kiểu chữ viết Hoa thường:
 
