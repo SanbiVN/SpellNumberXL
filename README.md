@@ -11,6 +11,8 @@
 *** Hướng dẫn
 Hàm: 	```=SpellNumVN(Text,[Đối_số_cài_đặt])```
 
+Tham số Text có thể nhận vào một chuỗi [A1] hoặc mảng chuỗi [A1:A10000].
+
 | **Hàm đối số cài đặt**           | **Diễn tả**                                                                                                                                                      |
 | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **snNumberIndexs**(Indexs)       | Nếu để số: 0 thì đọc tất cả số, 1 đọc số thứ nhất, {1;3} hay {1\\ 3} đọc số vị trí 1 và 3, Số âm -2 thì trích và đọc duy nhất vị trí số thứ 2 trong chuỗi chứa số. |
